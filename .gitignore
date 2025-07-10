@@ -1,0 +1,13 @@
+#ignore all db files
+*.db
+
+
+
+#ignore pycache file
+__pycache__/
+
+#ignore log file
+*.log
+
+#ignore env
+.eve
