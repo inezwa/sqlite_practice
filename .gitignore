@@ -11,3 +11,6 @@ __pycache__/
 
 #ignore env
 .eve
+
+#ignore day1.py
+day1.py
